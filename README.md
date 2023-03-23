@@ -2,9 +2,7 @@
 
 - 💻 Estudando Desenvolvimento de Software Multiplataforma na FATEC Zona Leste
 
-<br>
-
-[<kbd align="center"> <br> Acesse meus repositórios acadêmicos <br> </kbd>](https://github.com/AtividadesAcademicas)
+[<kbd> <br> Acesse meus repositórios acadêmicos <br> </kbd>](https://github.com/AtividadesAcademicas)
 
 <br>
 
